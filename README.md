@@ -9,4 +9,4 @@ However, I used it a bit more extensively in Part IV, particularly on the first 
 need to group by client_id, qty, then multiply qty*unit_price, sort descending")
 
 and last:
-("ename the columns to reflect the change in the money format. ")
+("Rename the columns to reflect the change in the money format. ")
